@@ -1,0 +1,16 @@
+name="Krishna"
+name1='ram'
+name2="ram"
+name3='''ram'''
+age=21
+old=False
+a=None
+place="jaipur"
+print(type(name))
+print(type(age))
+print(type(place))
+print(name1)
+print(name2)
+print(name3)
+print(type(old))
+print(type(a))
